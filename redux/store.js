@@ -30,6 +30,6 @@ const habitReducer = (state = initialState, action) => {
   }
 };
 
-const store = createStore(rootReducer);
+const store = createStore(habitReducer);
 
 export default store;
