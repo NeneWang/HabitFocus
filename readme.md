@@ -23,3 +23,12 @@ rd /s /q node_modules
 ```
 yarn add @react-native/metro-config
 ```
+
+
+Adding with expo
+
+- Automatic Linking
+
+```
+expo install expo-font
+```
